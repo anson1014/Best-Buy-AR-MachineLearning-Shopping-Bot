@@ -4,8 +4,6 @@ This bot has been created using [Bot Framework](https://dev.botframework.com). W
 
 ![](tvChat.png)
 
-<img src="tvChat.png" width=400>
-
 # AR Viewing
 
 After you've been recommended some products, an AR tag will appear alongside it. You can use your phone to scan the tag to visualize it's dimensions and how it would look in person. Using the product dimension data from the BestBuy Products Developer API, each product is scaled to it's most realistic size. 
